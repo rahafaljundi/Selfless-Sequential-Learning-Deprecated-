@@ -1,2 +1,2 @@
 An initial version of code, contains the main SLNI loss.
-A complete code with a demo will follow up soon.
+Another project named SSL with the full code and a Demo on permuted mnist is now aviable.
